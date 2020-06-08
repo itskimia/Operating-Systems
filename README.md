@@ -1,1 +1,2 @@
-# Operating-Systems
+A repository for the Introduction to Operating System course, in Amirkabir University of Technology Under supervision of Dr. Hossein Nourikhah. An operating system acts as an intermediary between the user of a computer and computer hardware. The purpose of an operating system is to provide an environment in which a user can execute programs in a convenient and efficient manner.
+An operating system is a software that manages the computer hardware. The hardware must provide appropriate mechanisms to ensure the correct operation of the computer system and to prevent user programs from interfering with the proper operation of the system.
